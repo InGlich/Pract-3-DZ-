@@ -31,7 +31,7 @@
 
 
 ### Блок-схема
-![Блок-схема алгоритма](lab_2_schema.png) 
+![Блок-схема алгоритма](lab_3_schema.png) 
 ## 2. Реализация программы
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
